@@ -1,0 +1,6 @@
+[submodule "Source"]
+	path = Source
+	url = https://github.com/dolphin-emu/dolphin.git
+[submodule "upstream/MMJR2-VBI"]
+	path = upstream/MMJR2-VBI
+	url = https://github.com/Medard22/Dolphin-MMJR2-VBI.git
